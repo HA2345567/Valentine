@@ -1,0 +1,16 @@
+{
+  "name": "valentine-project",
+  "version": "1.0.0",
+  "description": "Will you be my Valentine?",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step necessary'"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
