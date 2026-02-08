@@ -4,9 +4,7 @@ A cute, interactive webpage to ask someone to be your valentine!
 
 ## Demo
 
-<video src="./video.mp4" controls width="100%"></video>
-
-[Watch Video](./video.mp4)
+[Watch the demo video](./video.mp4)
 
 ## How to use
 
